@@ -1,0 +1,3 @@
+[submodule "src/LicenseFinder"]
+	path = src/LicenseFinder
+	url = https://github.com/pivotal/LicenseFinder.git
