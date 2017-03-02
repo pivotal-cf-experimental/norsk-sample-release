@@ -7,7 +7,7 @@ awscli/awscli-bundle-1.11.21.zip:
   object_id: id1
   sha: sha1
   size: 2
-erlang/otp_src_oss_18.3.4.4.tgz:
+nginx/newrelic_nginx_agent-1.2.1.tar.gz:
   object_id: id2
   sha: sha2
   size: 3
