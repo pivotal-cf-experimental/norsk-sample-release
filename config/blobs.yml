@@ -11,3 +11,7 @@ nginx/newrelic_nginx_agent-1.2.1.tar.gz:
   object_id: id2
   sha: sha2
   size: 3
+app-autoscaler/cf-autoscaling:
+  object_id: id3
+  sha: sha3
+  size: 4
