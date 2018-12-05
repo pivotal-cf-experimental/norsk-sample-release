@@ -6,8 +6,6 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name                               Version                           Architecture Description
 +++-==================================-=================================-============-===============================================================================
 ii  adduser                            3.116ubuntu1                      all          add and remove users and groups
-ii  apt                                1.6.3ubuntu0.1                    amd64        commandline package manager
 ii  apt-utils                          1.6.3ubuntu0.1                    amd64        package management related utility programs
 ii  aptitude                           0.8.10-6ubuntu1                   amd64        terminal-based package manager
-ii  aptitude-common                    0.8.10-6ubuntu1                   all          architecture independent files for the aptitude package manager
 ii  autoconf                           2.69-11                           all          automatic configure script builder
