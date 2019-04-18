@@ -1,4 +1,0 @@
-[submodule "licenseFinder"]
-	path = licenseFinder
-	url = https://github.com/pivotal/LicenseFinder.git
-	branch = master
