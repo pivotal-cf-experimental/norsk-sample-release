@@ -1,5 +1,5 @@
 dependencies:
-- name: libressl2.6-libcrypto
-  version: 2.6.5
-  source: https://storage.googleapis.com/pks-public/containers/1.3.4-build.8/k8s.gcr.io_k8s-dns-kube-dns-amd64:1.14.10/libressl-2.6.5.tar.gz
-  source_sha256: 859edfc71019d27c448fe148e679afdd972a0baa91b21f02b2b2f5f8a84ddd2a
+- name: light_dep
+  version: 1.0
+  source: https://storage.googleapis.com/system_test_fixtures/light_dep.tar.gz
+  source_sha256: 22ae40068f62f4b04fa17d519a4ee9339d3543752a019a61c4cad48211885aaf
