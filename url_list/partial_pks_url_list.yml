@@ -1,5 +1,5 @@
 dependencies:
 - name: light_dep
-  version: 1.0
+  version: "1.0.0"
   source: https://storage.googleapis.com/system_test_fixtures/light_dep.tar.gz
   source_sha256: 22ae40068f62f4b04fa17d519a4ee9339d3543752a019a61c4cad48211885aaf
