@@ -9,3 +9,4 @@ ii  adduser                            3.116ubuntu1                      all    
 ii  apt-utils                          1.6.3ubuntu0.1                    amd64        package management related utility programs
 ii  aptitude                           0.8.10-6ubuntu1                   amd64        terminal-based package manager
 ii  autoconf                           2.69-11                           all          automatic configure script builder
+ii  ignored                            2.69-112ubuntu                    all          automatic configure script builder
