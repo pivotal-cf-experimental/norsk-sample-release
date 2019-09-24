@@ -5,8 +5,8 @@ Desired=Unknown/Install/Remove/Purge/Hold
 |/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
 ||/ Name                               Version                           Architecture Description
 +++-==================================-=================================-============-===============================================================================
-ii  adduser                            3.116ubuntu1                      all          add and remove users and groups
-ii  apt-utils                          1.6.3ubuntu0.1                    amd64        package management related utility programs
-ii  aptitude                           0.8.10-6ubuntu1                   amd64        terminal-based package manager
-ii  autoconf                           2.69-11                           all          automatic configure script builder
+ii  adduser                            3.113+nmu3ubuntu4                 all          add and remove users and groups
+ii  apt-utils                          1.2.32                            amd64        package management related utility programs
+ii  aptitude                           0.7.4-2ubuntu2                    amd64        terminal-based package manager
+ii  autoconf                           2.69-9                            all          automatic configure script builder
 ii  ignored                            2.69-112ubuntu                    all          automatic configure script builder
