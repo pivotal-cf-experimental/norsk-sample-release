@@ -3,7 +3,7 @@ nginx/pcre-8.39.tar.gz:
   object_id: id0
   sha: sha0
   size: 1
-nginx/newrelic_nginx_agent-1.2.1.tar.gz:
+nginx/newrelic_nginx_agent-test.tar.gz:
   object_id: id2
   sha: sha2
   size: 3
